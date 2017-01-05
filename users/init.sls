@@ -1,0 +1,6 @@
+users:
+
+  ruhm:
+    password: $6$FIw5Rew0MclYjP7Z$NY0vBRGZ7OOaEdKKEKEy40NKLxw1sS6V5sERNUmKR4FB5nOng0GgbGsxwB4jJVY3uBsliB9OmJK.yGAacgtJ/1
+    pub_ssh_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUSogSzyPidJyb/0RokMo5c7jy5x/VR8csVl3mHwCDE1skdleJhcdBO/Vn7/E/vZy9Gy0m1VbZbeuikBO1rIBFLv9RPOqSimumn3QZByJTP1hjjtFelLzar+MYX0/wyrSZqTJG0/aXn53YW06G8orMeAGiwUBm7JP9PTumWw8VI3sHx/rpTZtBKjjJcx0/dFT9kNG3uHu1Zn5BzZ3HegxSvdJpgBjMCtlkQTKJR8Vj6NnVe5UDhgKQ9D/MVlgfoIJ6kK1W8aIFErq0rlXa3oqb9SSDWD27ZSyFEtbLcCdRxlWKogAWPUI9obBejl62RRbQ3bkvPuRAZUMGe1v7OvdL romain.da-costa-vieira@itsfactory.fr

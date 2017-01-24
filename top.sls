@@ -2,4 +2,4 @@ base:
   '*':
     - users
     - backup
-    - backup.files1
+    - backup.data1

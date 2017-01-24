@@ -1,5 +1,5 @@
 
-bucket_id: itsf-files1
+bucket_id: itsf-data1
 
 backup_dirs:
   - '"/var/www/public"'

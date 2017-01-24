@@ -1,5 +1,7 @@
 backup:
 
+  duplicity_destination: b2://7559bb2176d6:0019ae623bf5cff5b86cd9e6cc89cee2915c3cd14a
+
   duplicity:
     destination: b2://7559bb2176d6:0019ae623bf5cff5b86cd9e6cc89cee2915c3cd14a
     slack_hook_url: '"https://hooks.slack.com/services/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"'

@@ -1,9 +1,10 @@
+backup_vars:
 
-bucket_id: itsf-data1
-
-backup_dirs:
-  - '"/var/www/public"'
-
-cleanup_variable: '"1Y"'
-
-cron_hour: "'4'"
+  bucket_id: itsf-data1
+  
+  dirs:
+    - '"/var/www/public"'
+  
+  cleanup: '"1Y"'
+  
+  cron_hour: "'4'"

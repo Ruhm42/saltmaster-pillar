@@ -10,7 +10,7 @@ backup:
 
   gpg:
     signing_key: 
-      id: "C102374E"
+      id: '"C102374E"'
       passphrase: '"TrfW3KV6qtsR4a4288i4cpkvqo68mQ"'
       value: |
         -----BEGIN PGP PRIVATE KEY BLOCK-----
@@ -122,7 +122,7 @@ backup:
         -----END PGP PRIVATE KEY BLOCK-----
     
     encrypt_key:
-      id: "7D6CBB72"
+      id: '"7D6CBB72"'
       passphrase: '"W6Abk9KYcL9n4Qr6P94tDz7G7FJyA7"'
       value: |
         -----BEGIN PGP PRIVATE KEY BLOCK-----

@@ -1,5 +1,5 @@
 openvpn:
-  vpn_cidr_address: '192.168.2.1 255.255.255.0'
+  vpn_cidr_address: '192.168.2.0 255.255.255.0'
   certificate_authority: |
     -----BEGIN CERTIFICATE-----
     MIIFJzCCBA+gAwIBAgIJAK5+imkypjmEMA0GCSqGSIb3DQEBCwUAMIG9MQswCQYD

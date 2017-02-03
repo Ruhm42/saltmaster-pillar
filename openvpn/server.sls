@@ -130,5 +130,13 @@ openvpn_server:
     DJLZzhc3EQveF3fqO3lMXKblx43CLqX8nJdu4Sqpswu+2otP9Yuk800DGqugydTg
     B60DO1S1HggkxAhHdTiXrhxR1U8IBkd7iJLGFid+
     -----END CERTIFICATE-----
-    
+  server_pem: |
+    -----BEGIN DH PARAMETERS-----
+    MIIBCAKCAQEA6NbVFTqZ95mjjkmrEm40ifaafo3R0JavSYcGKrkqW6Prz/Was0ZN
+    Twc/f0Gq7eSDnD9BRoVUKt+gNYP2k91rCPGMBpCNfl4i22r6j4QKA1ViEMvNAx5V
+    Atb79lmrFA/NHbSUDFVSzeaHFxu5NCiNL7opXSk67NW0YrU2FABz78zg4ca9j6XH
+    DfN7hOxYi2r08Pn6hMpJ6KC+BYOleVELWr3gWrCusfC4CzyoaP5UoV3bN1664obJ
+    ZkTKP6WUg1TfQy+/ACVHB0tZuVfm/CARsE5+AxArY54dSvnBI3ik4hp7lHMd0ORD
+    r8X5CScjZZLNW/gF2ORblWA3Zi+yQCugGwIBAg==
+    -----END DH PARAMETERS-----
     

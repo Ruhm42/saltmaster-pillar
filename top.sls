@@ -6,11 +6,6 @@ base:
     - openvpn
     - hosts
 
-
-  '^(?!.*test2).*$':
-    - match: pcre
-    - openvpn.test2
-
   'test1*':
     - openvpn.server
 
